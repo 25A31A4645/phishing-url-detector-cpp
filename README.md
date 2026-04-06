@@ -28,6 +28,10 @@ Output: Warning: Suspicious URL detected
 - Basic string handling in C++
 - Simple pattern checking
 - Introduction to cybersecurity concepts like phishing
+  
+## Limitations
+- This project uses basic rules and may not detect all phishing URLs
+- It is designed for learning purposes only
 
 ## Author
 Eathala Chaitanya Rajkumar 
